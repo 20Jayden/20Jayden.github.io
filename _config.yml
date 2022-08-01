@@ -21,15 +21,15 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 20Jayden's blog                          # the main title
+title: 20Jayden's devlog                          # the main title
 
-tagline: 20Jayden's blog Hello!   # it will display as the sub-title
+tagline: https://github.com/20Jayden   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://20jayden.github.io'
+url: 'https://20jayden.dev'
 
 github:
   username: 20Jayden             # change to your github username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/favicons/profile.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
