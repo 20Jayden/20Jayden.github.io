@@ -3,7 +3,7 @@
 
 <br>
 
-## 1. 시작 전
+## __1. 시작 전__
 ### 1.1 테이블 생성
 
 ```
@@ -24,7 +24,7 @@ VALUES ('github_name', 'name', 'github_name@github.com', now(), now());
 
 <br>
 
-## 2. Start
+## __2. Start__
 ### 2.1 application.properties 수정
 
 > 로컬 환경에 맞게 설정 값을 입력합니다.
@@ -80,7 +80,7 @@ com
 <br>
 <br>
 
-## 3. 기타(etc)
+## __3. 기타(etc)__
 
 ### 3.1 VO 생성 쿼리(PostgreSQL)
 ```
